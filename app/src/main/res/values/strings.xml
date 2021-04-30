@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TIC TAK TOE</string>
+    <string name="player_x_s_turn">Player X\'s turn</string>
+    <string name="reset">Reset</string>
+</resources>
